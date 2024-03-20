@@ -83,7 +83,7 @@ if __name__ == "__main__":
     get_all_students()
 
     # Test addStudent()
-    add_student("New", "Student", "new.student@example.com", "2024-03-17")
+    add_student("Armin", "Mozafari", "armin.mozafari@example.com", "2024-03-17")
 
     # Test updateStudentEmail()
     update_student_email(1, "john.doe.updated@example.com")
